@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-package monix-tutorials
+package tutorials
 
 import cats.effect.ExitCode
 import cats.implicits._

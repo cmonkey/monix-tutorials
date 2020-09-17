@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-package monix-tutorials
+package tutorials
 
 import cats._
 import cats.implicits._

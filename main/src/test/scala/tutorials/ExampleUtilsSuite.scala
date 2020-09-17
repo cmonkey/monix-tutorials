@@ -3,7 +3,7 @@
  * All rights reserved.
  */
 
-package monix-tutorials
+package tutorials
 
 import cats.implicits._
 import org.scalatest.funsuite.AnyFunSuite
