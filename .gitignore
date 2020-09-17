@@ -1,2 +1,25 @@
+<<<<<<< HEAD
 *.class
 *.log
+=======
+benchmarks/results
+test-output/
+TODO
+!/.gitignore
+!/.scalafmt.conf
+.tags*
+.idea*
+*.log
+.DS_Store
+target/
+/.lib/
+project/target/
+.classpath
+TAGS
+.tags
+project/metals.sbt
+.metals
+.bloop
+site/Gemfile.lock
+node_modules/
+>>>>>>> 4c67111... init project
